@@ -1,0 +1,38 @@
+
+.box 
+{
+    /* border:1px solid black; */
+    width: 700px;
+    height: 400px;
+    text-align: left;
+    margin: auto;
+    box-sizing: border-box;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.logo 
+{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.image
+{
+    width: 80px;
+    height: 80px;
+}
+.last
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn 
+{
+    border:none;
+    width: 110px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
